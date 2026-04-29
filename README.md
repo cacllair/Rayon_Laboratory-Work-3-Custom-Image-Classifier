@@ -1,4 +1,9 @@
 # Rayon_Laboratory-Work-3-Custom-Image-Classifier
+## Submitted By:
+Candy Apple Clair L. Rayon
+## Collab Link
+[Click here to view the collab]([https://drive.google.com/file/d/1rnZIRPWHnqRvWl19_oFTxCvNZY59gD2b/view?usp=drive_link](https://colab.research.google.com/drive/1EHDwMB1SQgsh_Vw-ulmHlcIhNHTiborM?usp=sharing))
+
 
 **Guide Questions (Student Reflection & Explanation)**
 
