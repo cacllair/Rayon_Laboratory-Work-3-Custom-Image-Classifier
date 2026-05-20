@@ -5,6 +5,9 @@ Candy Apple Clair L. Rayon
 [Click here to view the collab]
 ([https://drive.google.com/file/d/1rnZIRPWHnqRvWl19_oFTxCvNZY59gD2b/view?usp=drive_link](https://colab.research.google.com/drive/1EHDwMB1SQgsh_Vw-ulmHlcIhNHTiborM?usp=sharing))
 
+MODEL LINK
+([https://drive.google.com/file/d/1rnZIRPWHnqRvWl19_oFTxCvNZY59gD2b/view?usp=drive_link](https://drive.google.com/file/d/1CyY3T0XO7iIMpSIbqUEbKb2pqH1QvnYY/view?usp=sharing))
+
 
 **Guide Questions (Student Reflection & Explanation)**
 
